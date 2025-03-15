@@ -19,6 +19,7 @@ docker run -it crawler4ai
 ## Usage
 
 ```
-python main.py
+python _01_crawl_semantic_kernel_docs.py
+python _02_pdf_api_docs_to_md.py
 ```
 
