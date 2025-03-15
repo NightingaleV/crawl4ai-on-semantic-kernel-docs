@@ -1,0 +1,4 @@
+crawl4ai
+PyMuPDF
+html2text
+fitz
